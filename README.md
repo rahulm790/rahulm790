@@ -2,9 +2,8 @@
 - 👀 I’m interested in web and app devlopement
 - 🌱 I’m currently learning  web dev
 - 💞️ I’m looking to collaborate on different projrcts
-- 📫 How to reach me ...
+- 📫 How to reach me  ->
+-  
+Lineedin -> https://www.linkedin.com/in/rahul-m-393500251/
+instagram = https://www.instagram.com/_rahul__790/?igshid=OGQ5ZDc2ODk2ZA%3D%3D
 
-<!---
-rahulm790/rahulm790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
