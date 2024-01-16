@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulm790
 - 👀 I’m interested in web and app devlopement
 - 🌱 I’m currently learning  web dev
-- 💞️ I’m looking to collaborate on different projrcts
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me  ->
 -  
 Lineedin -> https://www.linkedin.com/in/rahul-m-393500251/
